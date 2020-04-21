@@ -91,7 +91,7 @@ section {
 
 .brand {
     width: 170px;
-    height: 185px;
+    height: 85px;
     margin-left: -15px;
     margin-right: 60px;
 }
@@ -105,7 +105,7 @@ section {
     width: 330px;
     height: 30px;
     padding: 6px 12px;
-    border-bottom: 1px solid #a0a0a0;
+    border: 1px solid #a0a0a0;
 }
 
 .search-button {
